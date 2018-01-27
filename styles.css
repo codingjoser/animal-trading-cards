@@ -1,0 +1,16 @@
+/* add your CSS here */
+body {
+	border: 2px solid #aaa; 
+	box-shadow: 12px 12px 2px 1px #ddd;
+	padding: 1%; 
+	width: 350px;
+}
+
+img {
+	width: 100%; 
+}
+
+.section {
+	border: 1px solid #aaa;
+	padding: 1%; 
+}
